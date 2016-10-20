@@ -11,7 +11,10 @@ Some people seem like they were born to excel. They’re gifted physically, inte
 
 But don’t be fooled. However gifted someone may be, he or she still had to develop those talents to achieve a lofty professional position. And that’s good news for the rest of us. Each one of us has our own skills and talents, and we too can develop them and propel ourselves into positions of influence.
 
-<figure><img src="/images/sundar-pichai.jpg" title="sundar pichai"></figure>
+<figure>
+<img src="/images/sundar-pichai.jpg" title="sundar pichai">
+<figcaption>Sundar Pichai - Chief Executive Officer of Google </figcaption>
+</figure>
 
 
 Here are seven ways to enhance those talents:
