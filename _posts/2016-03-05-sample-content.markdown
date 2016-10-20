@@ -58,13 +58,13 @@ What happens when you move from the stage of product idea into deeper analysis, 
 Normally, there is no easy way to ‘tune’ a product architecture once products have been built and launched based upon that specific architecture.  It’s like building a house: You better find out whether you need an elevator before you have already built the first three floors.  It is not impossible to redesign afterwards, but it is extremely expensive and time consuming.  And often you are better off scratching whatever you built and start with blank sheets of paper.
 
 
-<h3><span>5: The right product architecture</span></h3>
+<h3><span>5: Strong project management</span></h3>
 
 <figure><img src="/images/p5.jpg" title="right product architecture"></figure>
 
 This success factor is also rarely on the radar of the ‘innovation people’.  But true innovation is not about generating ideas, but about execution.  Ideas are not very valuable unless they are properly implemented, which brings me to the hard disciplines of managing time and costs, benefits and risks, team members, contractors and vendors, issues and requirements, tasks and milestones.  And all the other good stuff related to project management.  Project management? Yes, proper product development requires heavy involvement across typical boundaries between departments and business areas.  So the project form is nearly always better than implementation through a line organization.
 
-<h3><span>6: The right product architecture</span></h3>
+<h3><span>6: Support for customization</span></h3>
 
 <figure><img src="/images/p6.jpg" title="right product architecture"></figure>
 
