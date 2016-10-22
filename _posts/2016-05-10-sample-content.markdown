@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Artificial intelligence is changing SEO faster than you think."
+title:  "Artificial intelligence is changing SEO faster than you think"
 date:   2016-05-10 13:50:00
 categories: main
 ---
