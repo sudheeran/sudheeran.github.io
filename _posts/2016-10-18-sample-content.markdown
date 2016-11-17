@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Kunal Shah’s Delta-4 theory!"
-date:   2016-10-15 14:50:00
+date:   2016-10-18 14:50:00
 categories: main
 ---
 
