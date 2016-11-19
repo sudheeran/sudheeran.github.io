@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Google’s AMP Is Speeding Up the Web By Changing How It Works!"
-date:   2016-11-02 16:50:00
+date:   2016-11-05 16:50:00
 categories: main
 ---
 
