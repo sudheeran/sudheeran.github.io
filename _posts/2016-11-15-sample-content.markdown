@@ -1,40 +1,32 @@
 ---
 layout: default
-title:  "Google’s AMP Is Speeding Up the Web By Changing How It Works!"
+title:  "Differences between B2C and B2B SEO."
 date:   2016-11-15 16:50:00
 categories: main
 ---
 
-<h2>Google’s AMP Is Speeding Up the Web By Changing How It Works!</h2>
+<h2>Differences between B2C and B2B SEO!</h2>
 
 
-AMP stands for Accelerated Mobile Pages, a Google-backed project designed as an open standard for any publisher to have pages load quickly on mobile devices.
+To date, most adopters of search engine optimization have been B2C companies operating in an e-commerce environment. However, as business-to-business marketers recognize the potential of search, many are seeking ways to implement an effective B2B search engine optimization strategy. To be successful, however, one needs to understand the critical differences between B2C and B2B SEO, and their implications.
 
-AMP HTML is a way to build web pages for static content that render with reliable, fast performance. It is our attempt at fixing what many perceive as painfully slow page load times – especially when reading content on the mobile web.
-
-
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/WrpkFROqR0Q?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>
-
-
-On Feb. 24, 2016, Google officially integrated AMP listings into its mobile search results. Pages making use of AMP coding appear within special places in the search results and/or with a special “AMP” designation.
-
-
-<strong>AMP in action consists of three different parts:</strong>
 
 <ul>
-	<li><strong>AMP HTML :</strong> is HTML with some restrictions for reliable performance and some extensions for building rich content beyond basic HTML.</li>
-	<li><strong>AMP JS :</strong> The AMP JS library ensures the fast rendering of AMP HTML pages.</li>
-	<li><strong>Google AMP Cache :</strong> Google AMP Cache can be used to serve cached AMP HTML pages.</li>
+	<li>A Difference in Goals.</li>
+	<li>Stickiness Prescribed Conversion Channels.</li>
+	<li>Greater Importance of Copy.</li>
+	<li>One Searcher. Multiple Searches.</li>
+	<li>One Prospect. Multiple Searchers.</li>
+	<li>More Complex Keyword Strategy.</li>
+	<li>Know the Search Engines Your Prospects Use</li>
+	<li>Conversions in B2B SEO</li>
 </ul>
 
 
-Get Started with : <a href="https://www.ampproject.org/" target="_blank">Google AMP</a>	
+Know More : <a href="http://www.seo.proteusb2b.com/white-papers/premium/b2bvsb2c.php" target="_blank">Differences b/w B2C and B2B SEO</a>	
 
-AMP HTML source code, samples, and documentation : <a href="https://www.github.com/ampproject/amphtml" target="_blank">Visit Github</a>
 
-<video autoplay="" controls="" height="720" loop="" width="360" style="width: 100%;"><br>
-	<source src="https://www.google.com/images/google-blog-assets/amp-phone-10062015.mp4" type="video/mp4"><br>
-</video>	
+<figure><img src="/images/B2B_B2C.png" title="Differences b/w B2C and B2B SEO"></figure>
 
-<figcaption style="text-align: center; margin-top: 10px;">Google AMP Example</figcaption>
+<figcaption style="text-align: center; margin-top: 10px;">Polaris - Differences b/w B2C and B2B SEO </figcaption>
 
