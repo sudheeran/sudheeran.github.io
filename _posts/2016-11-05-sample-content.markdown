@@ -29,9 +29,14 @@ You're dealing with a higher volume of users, which also has pros and cons.  You
 Also with B2C, you have a higher likelihood of actually being a user of the product you're building.  You can "eat your own dogfood" and see where the gaps are in your product, and discuss its values/shortcoming at home and with friends.
 
 
-<h4>B2B & B2C - Differences</h4>
+<h4>B2C & B2B - Differences</h4>
+
+<figure><img src="/images/b2bandb2c.png" title="b2b-differences"></figure>
+
+<br>
 
 <figure><img src="/images/b2b-differences.jpg" title="b2b-differences"></figure>
+
 
 
 More Info :
